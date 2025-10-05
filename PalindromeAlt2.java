@@ -1,4 +1,4 @@
-public class Palindrome {
+public class PalindromeAlt2 {
     public static void main(String[] args) throws Exception {
         System.out.print("Enter line to check: ");
         // Read one line from stdin 
@@ -42,4 +42,5 @@ public class Palindrome {
             System.out.println("\n\"" + original + "\" is not a palindrome.");
         }
     }
+
 }
